@@ -1,0 +1,8 @@
+.iframe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    width: 320px;
+    scrollbar-width: 0px;
+}
